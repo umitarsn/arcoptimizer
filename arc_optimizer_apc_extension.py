@@ -1,0 +1,1 @@
+App code has been updated in the canvas and is ready for deployment with logo integration.
